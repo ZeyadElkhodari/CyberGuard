@@ -24,6 +24,20 @@ Explore CyberGuard and see its features in action.
 
 ---
 
+## 📥 Download CyberGuard
+
+Download the latest version of CyberGuard for Android.
+
+[⬇️ Download CyberGuard APK](https://github.com/ZeyadElkhodari/CyberGuard/releases/latest/download/app-debug.apk)
+
+**Installation Instructions:**
+1. Download the APK file.
+2. Open the downloaded file on your Android device.
+3. Allow installation from this source if prompted.
+4. Complete the installation and start using CyberGuard.
+
+**Latest Release:** [CyberGuard Releases](https://github.com/ZeyadElkhodari/CyberGuard/releases/latest)
+
 ## ✨ Key Features
 
 ### 🔍 Security Scanning Tools
