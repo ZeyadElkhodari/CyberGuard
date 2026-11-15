@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard",
+  "description": "Cybersecurity awareness app with link assessment, password checks, Wi-Fi security guidance, QR scanning, and a learning academy.",
+  "requestFramePermissions": []
+}
