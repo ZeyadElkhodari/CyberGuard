@@ -20,7 +20,7 @@ Explore CyberGuard and see its features in action.
 
 **▶ Watch the application demo:**
 
-[CyberGuard — Application Demo Video](docs/cyberguard-demo.mp4)
+![CyberGuard Application Demo](docs/cyberguard-demo.gif)
 
 ---
 
